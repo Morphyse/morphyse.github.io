@@ -1,0 +1,207 @@
+a {
+  color: #000 !important;
+  text-decoration: none;
+}
+
+body {
+	background-color: #D1EAFF;
+	color: black;
+}
+
+.headerr {
+	background-color: #2E2E2E;
+	color: white;
+	border: 1px solid black;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px
+}
+
+@media screen and (max-width: 768px) {
+	#h_1 {
+		font-size: 40px;
+		padding-bottom: 5px;
+		padding-top: 5px;
+	}
+}
+
+#osnov{
+	padding-top: 30px;
+}
+
+#osnov_text {
+	word-wrap: break-word;
+	font-size: 18px;
+	text-align: justify;
+}
+
+@media screen and (max-width: 1200px) {
+	#osnov_text {
+		padding-top: 10px;
+	}
+
+	.eco_text {
+		margin-top: 20px;
+	}
+
+	.demog_text {
+		margin-top: 20px;
+	}
+
+	.war_text {
+		margin-top: 20px;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	#osnov_text {
+		padding-top: 10px;
+	}
+	
+	.perecen_osnow {
+		padding-top: 30px;
+	
+	}
+}
+
+.perecen_osnow {
+	padding-top: 30px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+#perecen {
+	padding-top: 15px;
+	font-size: 25px;
+}
+
+#perecen_sil {
+	transition: 0.3s;
+}
+
+#perecen_sil:hover {
+	font-size: 30px;
+}
+
+.eco {
+	margin-top: 40px;
+}
+
+.eco_zagl {
+	margin-top: 20px;
+}
+
+.eco_text {
+	font-size: 19.5px;
+	text-align: justify;
+}
+
+.eco_osn {
+	margin-top: 20px;
+	font-size: 19px;
+}
+
+.demograf {
+	margin-top: 40px;
+}
+
+.demog_osn {
+	margin-top: 20px;
+}
+
+.demog_text {
+	font-size: 19.5px;
+	text-align: justify;
+}
+
+.demograf_perec {
+	font-size: 19px;
+	margin-top: 20px;
+}
+
+.war {
+	margin-top: 40px;
+}
+
+.war_zagl {
+	margin-top: 20px;
+}
+
+.war_text {
+	font-size: 19.5px;
+	text-align: justify;
+}
+
+.war_osn {
+	margin-top: 20px;
+	font-size: 19px;
+}
+
+.eneg {
+	margin-top: 40px;
+}
+
+.eneg_zagl {
+	margin-top: 20px;
+}
+
+.eneg_text {
+	text-align: justify;
+	font-size: 17px;
+}
+
+.eneg_osn {
+	font-size: 19px;
+	margin-top: 20px;
+}
+
+.health {
+	margin-top: 40px;
+}
+
+.health_zagl {
+	margin-top: 20px;
+}
+
+.health_text {
+	font-size: 19px;
+	text-align: justify;
+}
+
+.health_osnow {
+	margin-top: 20px;
+	font-size: 19px;
+}
+
+.zaversh {
+	margin-top: 50px;
+}
+
+.zaversh_text {
+	text-align: justify;
+	font-size: 19px;
+}
+
+#avtor {
+	margin-top: 60px;
+}
+
+.opros {
+	margin-top: 30px;
+}
+
+#foot {
+	margin-top: 400px;
+	text-align: center;
+}
