@@ -19,6 +19,27 @@ body {
 }
 
 #Podzag {
-	margin-top: 20px;
+	margin-top: 100px;
 }
 
+#img_1 {
+	transition:  0.5s;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-radius: 30px;
+}
+
+#img_1:hover {
+	box-shadow: 2px 2px 10px 10px #C4C4C4;
+}
+
+#img_2 {
+	transition:  0.5s;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-radius: 30px;
+}
+
+#img_2:hover {
+	box-shadow: 2px 2px 8px 8px #C4C4C4;
+}
