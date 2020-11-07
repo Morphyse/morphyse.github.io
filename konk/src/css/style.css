@@ -8,7 +8,8 @@ body {
 }
 
 #Zagolowok {
-	
+	margin-top: 20px;
+	margin-bottom: 30px;
 }
 
 #text_osnowa {
@@ -26,7 +27,7 @@ body {
 	transition:  0.5s;
 	padding-left: 0px;
 	padding-right: 0px;
-	border-radius: 30px;
+	border-radius: 20px;
 }
 
 #img_1:hover {
@@ -37,7 +38,7 @@ body {
 	transition:  0.5s;
 	padding-left: 0px;
 	padding-right: 0px;
-	border-radius: 30px;
+	border-radius: 20px;
 }
 
 #img_2:hover {
