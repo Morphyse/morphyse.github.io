@@ -1,0 +1,21 @@
+body {
+	background-color: #e3e3e3;
+}
+
+#Osnowa {
+	background-color: white;
+	padding-bottom: 2000px;
+}
+
+#Zagolowok {
+	margin-top: 20px;
+}
+
+#text_osnowa {
+	padding-bottom: 200px;
+	border-radius: 15px; 
+	background-color: #e3e3e3;
+	box-shadow: 0px 20px #cdcdcd;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
