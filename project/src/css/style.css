@@ -1,0 +1,100 @@
+body {
+	background-color: #e3e3e3;
+}
+
+#Osnowa {
+	background-color: white;
+	padding-bottom: 30px;
+}
+
+#Zagolowok {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.zagoloov {
+	margin-top:60px;
+	margin-bottom:40px;
+}
+
+#text_osnowa {
+	padding-bottom: 20px;
+	border-radius: 15px; 
+	background-color: #e3e3e3;
+	box-shadow: 0px 20px #cdcdcd;
+}
+
+#Podzag {
+	margin-top: 100px;
+}
+
+#img_1 {
+	transition:  0.5s;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-radius: 20px;
+}
+
+#img_1:hover {
+	box-shadow: 2px 2px 8px 8px #C4C4C4;
+}
+
+#img_2 {
+	transition:  0.5s;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-radius: 20px;
+}
+
+#img_2:hover {
+	box-shadow: 2px 2px 8px 8px #C4C4C4;
+}
+
+h1 {
+
+	text-align: center;
+}
+
+.perechisl {
+	margin-bottom: 30px;
+}
+
+#text_zagl {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.text_podza {
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+#photo {
+
+}
+
+@media screen and (max-width: 992px) {
+	#text_zagl {
+		font-size: 30px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+}
+
+hr {
+	margin-top: 100px;
+}
+
+.floor {
+	text-align: center;
+}
+
+#text_1 {
+	margin-top: 20px;
+}
+
+.perechen {
+	margin-top: 10px;
+}
