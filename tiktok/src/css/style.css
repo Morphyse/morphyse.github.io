@@ -1,0 +1,114 @@
+body {
+	background-color: #FAE9FF;
+}
+
+h1{
+	text-align: center;
+}
+
+
+
+.central{
+	margin-top: 20px;
+	border: 2px solid #DF21E6;
+	border-radius: 10px
+}
+
+.HREFI {
+	margin-top: 5px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
+
+.VIP:hover {
+	color:gold;
+	text-decoration: none;
+}
+
+.defolt:hover {
+	color:white;
+	text-decoration: none;
+}
+
+.VIP {
+	font-family: Arial;
+	font-size: 20px;
+	color: gold;
+	text-shadow: 
+		-0   -2px 0   #000000,
+		 0   -2px 0   #000000,
+		-0    2px 0   #000000,
+		 0    2px 0   #000000,
+		-2px -0   0   #000000,
+		 2px -0   0   #000000,
+		-2px  0   0   #000000,
+		 2px  0   0   #000000,
+		-1px -2px 0   #000000,
+		 1px -2px 0   #000000,
+		-1px  2px 0   #000000,
+		 1px  2px 0   #000000,
+		-2px -1px 0   #000000,
+		 2px -1px 0   #000000,
+		-2px  1px 0   #000000,
+		 2px  1px 0   #000000,
+		-2px -2px 0   #000000,
+		 2px -2px 0   #000000,
+		-2px  2px 0   #000000,
+		 2px  2px 0   #000000,
+		-2px -2px 0   #000000,
+		 2px -2px 0   #000000,
+		-2px  2px 0   #000000,
+		 2px  2px 0   #000000;
+}
+
+.defolt {
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+	text-shadow: 
+		-0   -2px 0   #000000,
+		 0   -2px 0   #000000,
+		-0    2px 0   #000000,
+		 0    2px 0   #000000,
+		-2px -0   0   #000000,
+		 2px -0   0   #000000,
+		-2px  0   0   #000000,
+		 2px  0   0   #000000,
+		-1px -2px 0   #000000,
+		 1px -2px 0   #000000,
+		-1px  2px 0   #000000,
+		 1px  2px 0   #000000,
+		-2px -1px 0   #000000,
+		 2px -1px 0   #000000,
+		-2px  1px 0   #000000,
+		 2px  1px 0   #000000,
+		-2px -2px 0   #000000,
+		 2px -2px 0   #000000,
+		-2px  2px 0   #000000,
+		 2px  2px 0   #000000,
+		-2px -2px 0   #000000,
+		 2px -2px 0   #000000,
+		-2px  2px 0   #000000,
+		 2px  2px 0   #000000;
+}
+
+#deffolt {
+	border: 2px solid #93A0B8;
+	border-radius: 10px;
+}
+
+@media screen and (max-width: 480px) {
+	h1{
+		font-size: 20px;
+	}
+	.VIP {
+		font-size:15px;
+	}
+	.defolt {
+		font-size: 13px;
+	}
+}
